@@ -6,6 +6,14 @@ Twelve pieces of pure CSS art you can open, edit and copy.
 
 ![CSS Gallery](docs/screenshot.png)
 
+## Features
+
+- 12 hand-written CSS pieces, each opens in its own studio
+- Live CSS editor: change a value and the artwork updates
+- Animation speed control (0.1x to 2x) and pause
+- Copy the CSS or a complete HTML file
+- Filter by technique, deep links by hash
+
 ## Standout feature
 
 Every piece opens in a studio with its real stylesheet in an editor. Change a value and the artwork updates live. A speed control (0.1x to 2x) and a pause button use the Web Animations API, so you can slow an animation down and see how it is built. Copy the CSS or a complete HTML file.
